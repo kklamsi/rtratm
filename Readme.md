@@ -1,1 +1,1 @@
-💩
+<font size="72">💩</font>
