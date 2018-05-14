@@ -11,6 +11,10 @@ load(address)
 #' @export
 #' @param id ID to retrieve
 
+devtools::load_data()
+
 foo <- function(id) {
   return(which(RTR2015$id == id))
 }
+
+foo(1)
